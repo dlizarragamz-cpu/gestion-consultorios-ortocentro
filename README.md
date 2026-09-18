@@ -111,4 +111,4 @@ erDiagram
 
 ## 7. Modelo físico
 
-Ver script DDL en `modelo_fisico_ortocentro_consultorios.sql` (MySQL).
+Ver script DDL en `modelo_fisico_ortocentro_consultorios.sql` (SQL).
